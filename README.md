@@ -6,6 +6,9 @@
 [![Python versions supported](https://img.shields.io/pypi/pyversions/nexmo.svg)](https://pypi.python.org/pypi/nexmo)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
+|<p align="left">:exclamation: This SDK and PyPi package have moved! It is now [`vonage`](https://pypi.org/project/vonage/), located at [vonage/vonage-python-sdk](https://github.com/vonage/vonage-python-sdk). <br /><br /> We will support this repository for 12 months, ending October 2021, with any needed bug or security fixes for the last release of v7.2.0. New features will be released under `vonage`, so to take advantage of those please make sure to switch to `vonage` as soon as possible so you don't miss out!</p>   |
+|-----------------------------------------|
+
 This is the Python client library for Nexmo's API. To use it you'll
 need a Nexmo account. Sign up [for free at nexmo.com][signup].
 
